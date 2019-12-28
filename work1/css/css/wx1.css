@@ -1,0 +1,76 @@
+@charset "utf-8";
+.box {
+	height: 1200px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .nav {
+	height: 155px;
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .banner {
+	background-image: url(../images/bannerInner.jpg);
+	height: 183px;
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .dboby {
+	height: 750px;
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .dboby .top {
+	background-image: url(../images/filletTop.jpg);
+	height: 34px;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -12px;
+}
+.box .dboby .middle {
+	background-image: url(../images/contentBg.jpg);
+	height: auto;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .dboby .bootom {
+	background-image: url(../images/filletBott.jpg);
+	height: 40px;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -20px;
+}
+.box .dboby .middle .left {
+	background-image: url(../images/channel01.jpg);
+	height: 117px;
+	width: 41px;
+	margin-left: 25px;
+	float: left;
+}
+.box .dboby .middle .right {
+	float: left;
+	height: 400px;
+	width: 220px;
+	margin-top: 200px;
+}
+.box .bootom {
+	background-image: url(../images/filletBott.jpg);
+	height: 40px;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.box .dboby .middle .center {
+}
+.box .dboby .middle .center table tr td p {
+	color: #D38B72;
+}
